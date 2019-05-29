@@ -1,4 +1,4 @@
-package urlShort
+package shortener
 
 import (
 	"crypto/md5"
